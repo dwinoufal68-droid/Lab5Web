@@ -216,4 +216,4 @@ Melalui praktikum ini, saya mempelajari penggunaan dasar JavaScript untuk membua
 
 ## 11. Repository
 
-Repository GitHub: [https://github.com/ihsanhilmi2-oss/Lab5Web.git]
+Repository GitHub: https://github.com/dwinoufal68-droid/Lab5Web.git
